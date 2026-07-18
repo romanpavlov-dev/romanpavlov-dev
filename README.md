@@ -19,16 +19,15 @@
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 LeetCode Stats
 
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanpavlov-dev&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanpavlov-dev&layout=compact&theme=dark&hide_border=true)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ripavlov?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/ripavlov/)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=romanpavlov-dev&theme=dark&hide_border=true)
 
